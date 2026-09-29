@@ -1,0 +1,7 @@
+build/
+build-vscode/
+out/
+.vs/
+*.exe
+*.pdb
+data/

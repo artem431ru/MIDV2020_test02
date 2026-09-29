@@ -1,0 +1,6 @@
+%YAML:1.0
+---
+dataset_path: "C:/Users/User/Desktop/magistr/cognitive technologies/intern/work_001_1/MIDV2020_test02/data"
+nfeatures: 2000
+ratio: 0.75
+ransac_threshold: 3.0
